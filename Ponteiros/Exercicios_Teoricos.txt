@@ -1,0 +1,20 @@
+				EXERCÍCIOS - PONTEIROS 
+
+1. Qual é a forma correta de referenciar ch, assumindo que o endereço de ch foi
+atribuído ao ponteiro indica?
+	a) *indica 	b) indica 	c) &indica
+
+	R.: A) *indica
+
+
+2. Na expressão float *p, o que é do tipo float?
+	a) A variável p 	b) o endereço de p 	c) o conteúdo apontado por p
+
+	R.: C) o conteúdo apontado por p
+
+
+3. Assumindo que o endereço de num foi atribuído a um ponteiro pnum, quais das
+expressões são verdadeiras?
+	a) num == &pnum 	b) num == *pnum 	c) pnum == *num 	d) pnum == &num
+
+	R.: B) num == *pnum e D) pnum == &num
